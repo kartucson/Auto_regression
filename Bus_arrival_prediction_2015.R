@@ -1,5 +1,3 @@
-Oh gosh,comment is mandatory
-
 Make more changes, does it get automatically detected?
 
 Make changes to this file and see it it reflects
